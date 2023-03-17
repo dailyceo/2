@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBF7b1A92B6F2e59Fe063811Ac391C4bCbd596309",
+  "SCAN_LINK": "https://etherscan.io/address/0xBF7b1A92B6F2e59Fe063811Ac391C4bCbd596309",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "CanvasX",
+  "SYMBOL": "CANVAS",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 99900000000000000,
+  "DISPLAY_COST": 0.09990000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/canvasx-1",
+  "SHOW_BACKGROUND": true
+}
