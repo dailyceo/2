@@ -201,7 +201,7 @@ function App() {
 
   useEffect(() => {
     // Calculate the time remaining in the timer
-    const endTime = new Date("2022-12-21T12:00:00Z");
+    const endTime = new Date("2022-12-21T12:30:00Z");
     const timeRemaining = endTime - new Date();
 
     // Set the initial time remaining
@@ -289,7 +289,7 @@ function App() {
                 color: "var(--accent)",
               }}
             >
-              Public Mint Mar 17, 12:00 UTC
+              Public Mint Mar 17, 13:30 UTC
             </s.TextDescription>
             <s.SpacerLarge />
 
