@@ -566,7 +566,7 @@ function App() {
               }}
             >
 
-              Stay tuned for information from the CanvasX team.
+              Stay tuned for more information from the CanvasX team.
 
             </s.TextDescription>
 
