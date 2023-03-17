@@ -274,7 +274,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 30,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               An experimental art project
@@ -286,7 +286,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 40,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               Public Mint Mar 17, 12:00 UTC
@@ -301,7 +301,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 40,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               {truncate(
@@ -323,7 +323,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 40,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               {data.totalSupply}/{CONFIG.MAX_SUPPLY}
@@ -333,7 +333,7 @@ function App() {
 
 
             <s.TextTitle
-              style={{ textAlign: "center", color: "var(--primary)", fontSize: 40 }}
+              style={{ textAlign: "center", color: "var(--accent)", fontSize: 40 }}
             >
               Price: {CONFIG.DISPLAY_COST}{" "}
               {CONFIG.NETWORK.SYMBOL}
@@ -410,8 +410,8 @@ function App() {
                     <s.TextDescription
                       style={{
                         textAlign: "center",
-                        color: "var(--primary)",
-                        fontSize: 20,
+                        color: "var(--accent)",
+                        fontSize: 30,
                       }}
                     >
                       Choose CANVASX Amount:
@@ -433,7 +433,7 @@ function App() {
                         style={{
                           fontSize: 30,
                           textAlign: "center",
-                          color: "var(--primary)",
+                          color: "var(--accent)",
                         }}
                       >
                         {mintAmount}
@@ -458,7 +458,7 @@ function App() {
                       style={{
                         fontSize: 30,
                         textAlign: "center",
-                        color: "var(--primary)",
+                        color: "var(--accent)",
                       }}
                     >
                       {(mintAmount * CONFIG.DISPLAY_COST).toFixed(4)} ETH
@@ -521,7 +521,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 30,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               CanvasX offers a unique approach to creating digital art, with each piece being a one-of-a-kind masterpiece.
@@ -534,7 +534,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 30,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
 
@@ -548,7 +548,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 30,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
 
@@ -562,7 +562,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 30,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
 
